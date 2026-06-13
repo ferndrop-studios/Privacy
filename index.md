@@ -1,6 +1,6 @@
 # Privacy Policy for this app
 
-**Last updated: 2026-03-17**
+**Last updated: 2026-06-14**
 
 ---
 
@@ -40,6 +40,10 @@ This may include:
 
 This information is stored only on your device.
 
+You can export a backup of this data at any time from the Settings screen. The exported file is saved to your device and is not sent anywhere by the app.
+
+When you use the hunt list export feature, the app will ask for permission to save the exported image to your device's photo library. The app does not read or access any existing photos on your device.
+
 ---
 
 ## Advertising data
@@ -62,11 +66,25 @@ https://policies.google.com/technologies/partner-sites
 
 ---
 
+## Crash reporting and diagnostics
+
+This app uses **Sentry** to collect anonymous crash and error reports.
+
+If the app crashes or encounters an unexpected error, a report is automatically sent to Sentry's servers. This report may include:
+
+- the error message and where in the app it occurred  
+- your device model and operating system version  
+- your app version  
+
+No card lists, personal names, or other user-created content are included in these reports. Crash reports help us identify and fix bugs to improve app stability.
+
+You can read Sentry's privacy policy at: https://sentry.io/privacy
+
+---
+
 ## Network requests
 
-This app may connect to external services to retrieve card data or pricing information.
-
-These requests do not include personal user data and are used only to display relevant information within the app.
+This app connects to external services to retrieve card and set information. These requests do not include your personal user data or card lists, and are used only to display card information within the app.
 
 ---
 
@@ -78,7 +96,7 @@ We do not intentionally ask for or collect:
 - your home address  
 - your phone number  
 - your contacts  
-- your photos  
+- the contents of your photo library (the app may save images to your photo library if you use the export feature, but it does not read your existing photos)  
 - your microphone recordings  
 - your camera data  
 
@@ -93,6 +111,7 @@ We use information to:
 - make the app function correctly  
 - store and display your card lists  
 - improve app stability and performance  
+- identify and fix crashes and errors (via Sentry)  
 - show ads, if ads are enabled  
 
 ---
@@ -102,6 +121,8 @@ We use information to:
 We do not sell your personal information.
 
 If advertising is enabled, data may be shared with advertising providers such as Google AdMob in order to serve and measure ads.
+
+Anonymous crash and error data may be shared with Sentry in order to monitor app stability and fix bugs.
 
 ---
 
@@ -113,15 +134,7 @@ Local app data remains on your device until you:
 - clear app data through your device settings  
 - uninstall the app  
 
-Third-party services such as Google AdMob may retain data according to their own policies.
-
----
-
-## Future features
-
-Future versions of this app may include optional features such as data backup or restore.
-
-If these features are introduced, this Privacy Policy will be updated to reflect how data is handled.
+Third-party services such as Google AdMob and Sentry may retain data according to their own policies.
 
 ---
 
